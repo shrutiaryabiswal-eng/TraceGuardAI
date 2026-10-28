@@ -27,3 +27,4 @@ EOF
 # Local backup files
 *.backup
 app_backup.py
+package-lock.json
